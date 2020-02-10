@@ -1,7 +1,7 @@
 
 # Example
 
-Tets sum and subtract using jest.js
+Test sum and subtract using jest.js
 
 ## Usage
 
